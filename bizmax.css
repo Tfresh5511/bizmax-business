@@ -619,6 +619,327 @@ button {
  .ipsum-logo{
   width: 50px;
  }
+ .section10{
+  width: 100%;
+  height: 150vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: none;
+  background-color: #F5F5F5;
+ }
+ .section10-icon{
+  width: 200px;
+  height: 100vh;
+  padding-top: 30px;
+ }
+ .our-awards{
+  font-size: 15px;
+  margin-top: 20px;
+  padding-left: 10px;
+  border-left: 2px solid #fe5626;
+  font-weight: bold;
+ }
+ .humanitarian{
+  width: 500px;
+  height: 100vh;
+  padding-top: 100px;
+ }
+ .him{
+  font-size: 50px;
+  font-weight: bold;
+ }
+ .wehave-him{
+  color: #989898;
+  font-weight: bold;
+  margin-top: 10px;
+ }
+ .contact-us{
+  margin-top: 20px;
+  font-weight: bold;
+  border-left: 2px solid #989898;
+  padding-left: 15px;
+ }
+ .award-img{
+  width: 150px;
+ }
+ .award-box{
+  width: 550px;
+  height: 150px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+ }
+ .cluch-award{
+  font-size: 25px;
+  font-weight: bold;
+ }
+ .award-weoffer{
+  font-size: 16px;
+  margin-top: 10px;
+ }
+ .about-us{
+  margin-top: 10px;
+  font-weight: bold;
+  border-left: 2px solid #989898;
+  padding-left: 10px;
+ }
+ .section11{
+  width: 100%;
+  height: 170vh;
+  display: flex;
+  justify-content: none;
+  align-items: none;
+  background-color: #F9F8FF;
+ }
+ .section11-icon{
+  width: 100px;
+  /* height: 100vh; */
+  padding-top: 50px;
+ }
+ .bizmax-news{
+  font-size: 10px;
+  font-weight: bold;
+  border-left: 2px solid #fe5626;
+  padding-left: 10px;
+  margin-top: 20px;
+ }
+ .latest-div{
+  width: 560px;
+ }
+ .latest{
+  margin-top: 120px;
+  font-size: 50px;
+  font-weight: bold;
+ }
+ .latest-wehave{
+  font-size: 14px;
+  color: #989898;
+ }
+ .all-news{
+  margin-top: 20px;
+  font-size: 14px;
+  font-weight: bold;
+  border-left: 2px solid #000000;
+  padding-left: 10px;
+ }
+ .office-div{
+  width: 500px;
+  margin-top: 100px;
+ }
+ .office{
+  width: 500px;
+  height: 150px;
+  background-color: gainsboro;
+  display: flex;
+  /* padding-top: 120px; */
+ }
+ .office-box{
+  display: flex;
+  justify-content: space-around;
+  align-items: none;
+  margin-top: 20px;
+ }
+ .office-img{
+  width: 200px;
+ }
+ .icon-content{
+  width: 300px;
+  display: flex;
+  justify-content: space-around;
+  align-items: normal;
+ }
+ .consultant-div{
+  display: flex;
+ }
+ .tag-icon{
+  width: 17px;
+ }
+ .consultantt{
+  width: 5px;
+  color: #989898;
+ }
+ .slash{
+  color: #989898;
+  margin-left: 70px;
+ }
+ .calender-icon{
+  width: 17px;
+ }
+ .date{
+  font-size: 15px;
+  color: #989898;
+ }
+ .mindful{
+  font-size: 15px;
+  font-weight: bold;
+  margin: 20px 10px;
+ }
+ .readd-more{
+  border-left: 2px solid #000000;
+  margin-left: 10px;
+  padding-left: 10px;
+  font-weight: bold;
+ }
+ .section12{
+  width: 100%;
+  height: 30vh;
+  background-color: #2a2c38;
+  display: flex;
+ }
+ .bizma{
+  width: 200px;
+  height: 30vh;
+  border: 1px solid #989898;
+  color: #ffffff;
+  padding-top: 50px;
+ }
+ .bizma p{
+  font-size: 12px;
+ }
+ .empty{
+  width: 350px;
+  height: 30vh;
+  border: 1px solid #989898;
+ }
+ .section12-img{
+  width: 350px;
+  height: 30vh;
+  border: 1px solid #989898;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffffff;
+ }
+ .img-sec12{
+  display: flex;
+  justify-content: none;
+  align-items: none;
+  padding-left: 40px;
+ }
+ .img-div{
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  background-color: #ffffff;
+  overflow: hidden;
+ }
+ .femalee{
+  width: 40px;
+ }
+ .live-chat{
+  width: 300px;
+  border: 1px solid #989898;
+ }
+ .live-chat p{
+  color: #ffffff;
+  margin-top: 80px;
+ }
+ .section13{
+  width: 100%;
+  height: 50vh;
+  background-color: #2a2c38;
+  display: flex;
+ }
+ .section13-about{
+  width: 200px;
+  height: 50vh;
+  border: 1px solid #989898;
+ }
+ .about-bizmax{
+  color: #ffffff;
+  margin-top: 70px;
+ }
+ .weofferr{
+  color: #989898;
+  margin-top: 40px;
+  font-size: 12px;
+ }
+ .sec13-contact li{
+  color: #fe5626;
+  margin: 20px 15px;
+ }
+ .sec13-contact p{
+  color: #989898;
+ }
+ .section13-services{
+  width: 350px;
+  height: 50vh;
+  border: 1px solid #989898;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+ }
+ .sec13-services p{
+  margin-bottom: 40px;
+  color: #ffffff;
+ }
+ .sec13-services li{
+  list-style: none;
+  margin: 10px;
+  font-size: 13px;
+  color: #989898;
+ }
+ .sec13-newsletter{
+  width: 280px;
+  height: 50vh;
+  border: 1px solid #989898;
+  place-content: center;
+  margin-left: 70px;
+  border-left: none;
+ }
+ .newsletter{
+  color: #ffffff;
+  margin-bottom: 40px;
+ }
+ .we-offerr{
+  color: #989898;
+  font-size: 13px;
+ }
+ .input-tag{
+  width: 200px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+ }
+ .input{
+  width: 150px;
+  height: 40px;
+  background-color: #000000;
+ }
+ .send-icon{
+  width: 40px;
+  height: 38px;
+  background-color: #ffffff;
+ }
+ .instagram-div{
+  width: 300px;
+  height: 50vh;
+  border: 1px solid #989898; 
+  place-content: center;
+ }
+ .instagram-div p{
+  color: #ffffff;
+  margin-bottom: 20px;
+  margin-left: 30px;
+ }
+ .insta-div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+ .img-insta{
+  width: 70px;
+  height: 70px;
+  background-color: #F5F5F5;
+  margin: 5px 5px;
+  overflow: hidden;
+ }
+ .insta-img{
+  width: 80px;
+  height: 70px;
+ }
+
 
 
 @media screen and (max-width: 450px) {
